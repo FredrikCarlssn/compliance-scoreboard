@@ -1,4 +1,4 @@
-# Hackaton - Security Scoreboard
+# Hackaton - Compliance Scoreboard
 
 Vi är många som jobbar i organisationer som behöver följa samma eller liknande lagstiftning. Hur väl vi uppfyller dessa är generellt olika mellan organisationer och/eller mellan team och område inom en organisation.
 
